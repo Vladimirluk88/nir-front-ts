@@ -1,0 +1,17 @@
+.App {
+  width: 700px;
+  background: #fff;
+  border: solid 1px black;
+  border-radius: 20px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Lato', sans-serif;
+}
+
+.h1_text {
+  text-align: center;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
